@@ -1,1 +1,107 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+
+<style>
+
+#top-nav { margin:0 auto; padding:0px 0 0; height:37px; float:right;}		
+body {
+  background-image: url('bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<style>
+a:link, a:visited {
+  background-color: #93131E ;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #93131E;
+}
+</style>
+
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #93131E;
+   color: black;
+   text-align: center;
+}
+</style>
+
+
+</head>
+<body>
+<article>
+  <header >
+
+<img src="logo.gif" alt="LOGO" style="width:280px;height:140px;">
+<div id="top-nav">
+<nav>
+	<a href="#">About</a>
+               <a href="#">Locate Us</a>
+	<a href="#">FAQ</a>
+	<a href="#">Help</a>
+					
+</nav>
+</div>
+  </header>
+
+</article>
+
+
+<h1><p style="text-align:center">SHOP FOR</h1>
+<nav style="text-align:center">
+<a href="default.asp" target="_blank">MEN</a>
+<a href="default.asp" target="_blank">WOMEN</a>
+</nav>
+
+   <main>
+      <aside style="line-height:30px;background-color:#F3D2D5 ;height:380px;width:20%;float:right;padding:5px">
+	    
+		<fieldset width="50%">
+		     <legend>OFFER ZONE</legend>
+		     <marquee direction="down">
+			<a href="#">50% off on kurtas</a><br>
+	<a href="#">70% off on Pyajamas</a><br>
+	<a href="#">30% off on kids wear</a><br>
+	<a href="#">80% off on Lehangas</a><br>
+               <a href="#">Special zone for Bride</a><br>
+            
+			 </marquee>
+		</fieldset>
+		
+	  </aside>
+
+  <section style="line-height:30px;background-color:#FFD6DA ;height:340px;width:18%;float:left;padding:20px">
+<fieldset width="50%">
+	       <article>
+		   <h3>Manyavar</h3>
+		 Manyavar is a men's ethnic wear brand founded in India by entrepreneur Ravi Modi in 1999 under his company Vedant Fashions.
+                                 Manyavar offers Sherwanis, Kurtas and indo-western clothing for men. The brand started with a 150 sq feet shop in Kolkata and has now expanded to over 570 stores across 180 cities in India and Abroad.
+		   </article>
+</fieldset>
+	  
+<div class="footer">
+  <p>&copy; Copyright <a href="#" ">Your Site</a> &#124; <a href="#" >Terms and Conditions</a> &#124; <a href="#">Privacy Policy</a></p>
+</div>
+
+
+
+</body>
+</html>
