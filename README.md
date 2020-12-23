@@ -1,4 +1,4 @@
-# Web-Development-Projects
+# Frames and IFrames
 Some HTML and CSS Projects on which I have worked on
 
 This is a simple project to understand the concept of frames in Html. With the help of following things
